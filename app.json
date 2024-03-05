@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "d638cc0f-e28b-4a36-a4d4-c930fc634d59"
+      }
+    },
+    "owner": "phariushs"
   }
 }
